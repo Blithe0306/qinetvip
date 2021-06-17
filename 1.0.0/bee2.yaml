@@ -1,0 +1,14 @@
+
+password-file: E:\1.0.0\password
+api-addr: :1636
+clef-signer-enable: false
+config: E:\1.0.0\bee2.yaml
+data-dir: E:\1.0.0\bee2
+debug-api-addr: 127.0.0.1:1638
+debug-api-enable: true
+p2p-addr: :1637
+swap-enable: true
+swap-endpoint:  ws://148.153.73.230:8546
+verbosity: trace
+welcome-message: "Q"
+

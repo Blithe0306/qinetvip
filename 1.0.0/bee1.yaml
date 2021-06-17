@@ -1,0 +1,14 @@
+
+password-file: E:\1.0.0\password
+api-addr: :1633
+clef-signer-enable: false
+config: E:\1.0.0\bee1.yaml
+data-dir: E:\1.0.0\bee1
+debug-api-addr: 127.0.0.1:1635
+debug-api-enable: true
+p2p-addr: :1634
+swap-enable: true
+swap-endpoint:  更换请求地址
+verbosity: trace
+welcome-message: "Q"
+
