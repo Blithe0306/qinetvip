@@ -1,14 +1,13 @@
-
-password-file: E:\1.0.0\password
 api-addr: :1633
-clef-signer-enable: false
-config: E:\1.0.0\bee1.yaml
-data-dir: E:\1.0.0\bee1
+p2p-addr: :1634
 debug-api-addr: 127.0.0.1:1635
 debug-api-enable: true
-p2p-addr: :1634
+password-file: E:\git\qinetvip\1.0.0\password
+config: E:\git\qinetvip\1.0.0\bee1.yaml
+swap-endpoint: ws://148.153.73.230:8546
 swap-enable: true
-swap-endpoint:  更换请求地址
+data-dir: E:\git\qinetvip\1.0.0\bee1
+network-id: 10
 verbosity: trace
+clef-signer-enable: false
 welcome-message: "Q"
-

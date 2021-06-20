@@ -1,14 +1,13 @@
-
-password-file: E:\1.0.0\password
 api-addr: :1639
-clef-signer-enable: false
-config: E:\1.0.0\bee3.yaml
-data-dir: E:\1.0.0\bee3
+p2p-addr: :1640
 debug-api-addr: 127.0.0.1:1641
 debug-api-enable: true
-p2p-addr: :1640
+password-file: E:\git\qinetvip\1.0.0\password
+config: E:\git\qinetvip\1.0.0\bee3.yaml
+swap-endpoint: ws://148.153.73.230:8546
 swap-enable: true
-swap-endpoint:  ws://148.153.73.230:8546
+data-dir: E:\git\qinetvip\1.0.0\bee3
+network-id: 10
 verbosity: trace
+clef-signer-enable: false
 welcome-message: "Q"
-
